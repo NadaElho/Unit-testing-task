@@ -1,5 +1,5 @@
 import { Button, Label, TextInput } from "flowbite-react";
-import { IUser } from "../Interfaces/User";
+import { IUser } from "../../Interfaces/User";
 
 export default function Register({
   handleClick,
